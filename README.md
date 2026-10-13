@@ -48,7 +48,7 @@ studylock-unjbg/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/studylock-unjbg.git
+git clone https://github.com/wiLLotheRock/proyecto_web_app.git
 cd studylock-unjbg
 ```
 
